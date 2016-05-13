@@ -1,0 +1,15 @@
+.accounts {
+  display: flex;
+}
+
+.account {
+  margin-right: 30px;
+}
+
+.account:last-of-type {
+  margin-right: 0;
+}
+
+.wrapper {
+  overflow: hidden;
+}
